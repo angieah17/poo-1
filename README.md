@@ -19,7 +19,7 @@ Este es un proyecto en el cual se compilan las primeras sesiones de Programació
 - Person.
 - Reloj.
 
-## 📜 Código de ejemplo
+### 📜 Código de ejemplo
 ```java
 
   // 1. Propiedades
@@ -42,4 +42,5 @@ Este es un proyecto en el cual se compilan las primeras sesiones de Programació
 
 ## ✨ Autor
 - **Angie Amado** - [GitHub](https://github.com/angieah17)
+![LogoJava](https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png)
 
